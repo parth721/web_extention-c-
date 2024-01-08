@@ -1,0 +1,38 @@
+{
+    "extName": {
+      "message": "By Design"
+    },
+    "extDescription": {
+      "message": "Use persuasive design to help you stop wasting time on YouTube"
+    },
+    "options_setting_storage": {
+      "message": "Setting storage"
+    },
+    "options_sync": {
+      "message": "Sync settings across browsers"
+    },
+    "options_thumbnail_mode": {
+      "message": "Thumbnail display mode"
+    },
+    "options_thumbnail_hidden": {
+      "message": "Hidden"
+    },
+    "options_thumbnail_normal": {
+      "message": "Normal"
+    },
+    "options_disable_extension_on": {
+      "message": "Disable extension on"
+    },
+    "options_disable_extension_everywhere": {
+      "message": "Everywhere"
+    },
+    "options_loaded": {
+      "message": "Preferences loaded"
+    },
+    "options_saving": {
+      "message": "Saving..."
+    },
+    "options_saved": {
+      "message": "Saved preferences"
+    }
+  }
